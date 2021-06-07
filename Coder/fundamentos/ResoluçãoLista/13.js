@@ -11,7 +11,7 @@ function diaUtil(dia){
         case 7:
             return "Final de Semana"
         default:
-            return "Dia inválido"
+            return "Dia inválido!!"
     }   
 }
 
